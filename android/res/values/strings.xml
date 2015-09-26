@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Panic Flower</string>
+    <string name="name">Name</string>
+    <string name="occasion">Occasion</string>
+
+    <string name="normal">Normal</string>
+    <string name="cardboard">Cardboard</string>
+
+    <string name="default_name">To whom it may concern!</string>
+    <string name="default_occasion">Happy Valentines Day!</string>
+
+</resources>

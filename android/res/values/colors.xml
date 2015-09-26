@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item type="color" name="PFColorPrimaryLight">#FFCDD2</item>
+    <item type="color" name="PFColorPrimaryDark">#D32F2F</item>
+    <item type="color" name="PFColorPrimary">#F44336</item>
+    <item type="color" name="PFColorAccent">#FF9800</item>
+    <item type="color" name="PFColorText">#FFFFFF</item>
+</resources>
